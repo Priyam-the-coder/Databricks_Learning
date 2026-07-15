@@ -1,0 +1,16 @@
+Transaction_ID,Transaction_Date,Store_ID,Store_Name,City,Customer_ID,Gender,Age_Group,Product_Category,Product_Name,Quantity,Unit_Price,Discount,Payment_Method
+T1001,2026-01-01,S001,Central Mall,Kolkata,C101,Male,25-34,Electronics,Wireless Mouse,2,799,10,UPI
+T1002,2026-01-01,S001,Central Mall,Kolkata,C102,Female,18-24,Fashion,T-Shirt,3,499,5,Credit Card
+T1003,2026-01-02,S002,City Centre,Delhi,C103,Male,35-44,Grocery,Rice Bag,1,1200,0,Cash
+T1004,2026-01-02,S003,Phoenix Mall,Mumbai,C104,Female,25-34,Electronics,Keyboard,1,1499,15,Debit Card
+T1005,2026-01-03,S002,City Centre,Delhi,C105,Male,45-54,Fashion,Jeans,2,1999,20,UPI
+T1006,2026-01-03,S004,Lulu Mall,Bengaluru,C106,Female,35-44,Home,Vacuum Cleaner,1,8999,12,Credit Card
+T1007,2026-01-04,S001,Central Mall,Kolkata,C107,Male,18-24,Electronics,Headphones,1,2999,8,UPI
+T1008,2026-01-04,S005,Forum Mall,Hyderabad,C108,Female,25-34,Grocery,Cooking Oil,5,250,5,Cash
+T1009,2026-01-05,S004,Lulu Mall,Bengaluru,C109,Male,35-44,Electronics,Monitor,1,15999,18,Debit Card
+T1010,2026-01-05,S003,Phoenix Mall,Mumbai,C110,Female,45-54,Fashion,Shoes,2,2499,10,Credit Card
+T1011,2026-01-06,S005,Forum Mall,Hyderabad,C111,Male,25-34,Home,Water Bottle,4,299,0,UPI
+T1012,2026-01-06,S002,City Centre,Delhi,C112,Female,18-24,Grocery,Milk,6,60,0,Cash
+T1013,2026-01-07,S001,Central Mall,Kolkata,C113,Male,35-44,Electronics,Laptop,1,65000,5,Credit Card
+T1014,2026-01-07,S004,Lulu Mall,Bengaluru,C114,Female,25-34,Home,Air Purifier,1,11999,10,Debit Card
+T1015,2026-01-08,S003,Phoenix Mall,Mumbai,C115,Male,45-54,Fashion,Jacket,1,3499,15,UPI
